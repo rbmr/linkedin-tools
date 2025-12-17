@@ -3,13 +3,6 @@
 ## 📖 Purpose
 This project allows you to programmatically extract your **full** personal LinkedIn data using the **Member Data Portability API**.
 
-This API was released by LinkedIn to comply with the EU's **Digital Markets Act (DMA)**. Unlike the standard archive download feature, this tool allows for:
-1.  **Granular Access:** Fetch specific data domains on demand (e.g., just your work history or just your messages).
-2.  **Automation:** Create scripts to regularly backup your professional history.
-3.  **Data Reusability:** Export your profile data into JSON for use in personal websites, resume generators, or data analysis.
-
----
-
 ## ⚙️ LinkedIn API Setup Guide
 
 Setting up this specific API differs from standard LinkedIn apps because it is a **Regulatory Developer Product**.
