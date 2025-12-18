@@ -1,7 +1,7 @@
-import requests
-import os
 import time
-from typing import List, Dict, Any, Optional, Type
+from typing import List, Dict, Any
+
+import requests
 
 
 class LinkedInFetcher:
